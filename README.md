@@ -148,6 +148,4 @@ Je suis disponible en alternance à partir de **septembre 2026** pour un rythme 
 
 **📞 06 17 22 70 83 · ✉️ achille.coves13@gmail.com · 📍 Orléans, France**
 
-*Profil LinkedIn · Portfolio · GitHub — liens en haut de page*
-
 </div>
