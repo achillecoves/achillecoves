@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salut, moi c'est Achille Coves 👋
+# Bonjour, moi c'est Achille Coves 👋
 
 ### Étudiant Bachelor Full-Stack · Cherche alternance Sept. 2026
 
