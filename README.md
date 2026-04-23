@@ -50,7 +50,7 @@ Ce qui me motive ? Être confronté à de **vrais problèmes concrets**, concevo
 
 ## 🚀 Projets
 
-### 🗺️ Projet Pathfinding (C + HTML/CSS/JS)
+###  Projet Pathfinding (C + HTML/CSS/JS)
 > Algorithme de parcours en largeur sur un graphe de listes chaînées
 
 - Manipulation avancée de listes chaînées
@@ -59,7 +59,7 @@ Ce qui me motive ? Être confronté à de **vrais problèmes concrets**, concevo
 
 ---
 
-### 🎮 Projet Bataille Naval (HTML/CSS + PHP + JS)
+###  ⚓ Projet Bataille Naval (HTML/CSS + PHP + JS)
 > Jeu stratégique en ligne avec logique serveur
 
 - Création du frontend complet en HTML, CSS, JavaScript
@@ -68,7 +68,7 @@ Ce qui me motive ? Être confronté à de **vrais problèmes concrets**, concevo
 
 ---
 
-### 🎮 Projet Battle Royal (JS)
+###  ⚔️ Projet Battle Royal (JS)
 > Jeu temps réel dynamique côté client
 
 - Architecture MVC complète
@@ -77,12 +77,24 @@ Ce qui me motive ? Être confronté à de **vrais problèmes concrets**, concevo
 
 ---
 
-### 🏢 Projet Trombinoscope – Hutchinson
+###  🏢 Projet Trombinoscope – Hutchinson (HTML/CSS + PHP + JS)
 > Application web professionnelle réalisée pour l'entreprise Hutchinson
 
 - Trombinoscope interactif avec **fiches profils cliquables**
 - Accès complet aux informations de chaque collaborateur
 - **Espace administrateur** : ajout, modification, suppression de collaborateurs
+
+---
+
+###  🌱 Projet JavaFarm (Java/JavaFX)
+> Jeu de simulation agricole avec interface graphique
+
+- Architecture MVC complète (controllers, models, vues FXML)
+- Programmation Orientée Objet avancée (héritage, classes abstraites, gestion des entités)
+- Système de gameplay complet : culture, élevage, économie (achat/vente)
+- Gestion d’états dynamiques (croissance des plantes, production des animaux)
+- Interface interactive avec JavaFX (binding, événements, UI en temps réel)
+- Système de sauvegarde automatique en JSON (Gson)
 
 ---
 
